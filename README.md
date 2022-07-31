@@ -1,2 +1,2 @@
-# banderogus
+# Banderogus
 My Training Website
